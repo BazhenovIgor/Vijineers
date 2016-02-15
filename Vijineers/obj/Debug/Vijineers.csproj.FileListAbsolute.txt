@@ -1,6 +1,0 @@
-c:\users\igor\documents\visual studio 2013\Projects\Vijineers\Vijineers\bin\Debug\Vijineers.exe.config
-c:\users\igor\documents\visual studio 2013\Projects\Vijineers\Vijineers\bin\Debug\Vijineers.exe
-c:\users\igor\documents\visual studio 2013\Projects\Vijineers\Vijineers\bin\Debug\Vijineers.pdb
-c:\users\igor\documents\visual studio 2013\Projects\Vijineers\Vijineers\obj\Debug\Vijineers.csprojResolveAssemblyReference.cache
-c:\users\igor\documents\visual studio 2013\Projects\Vijineers\Vijineers\obj\Debug\Vijineers.exe
-c:\users\igor\documents\visual studio 2013\Projects\Vijineers\Vijineers\obj\Debug\Vijineers.pdb
